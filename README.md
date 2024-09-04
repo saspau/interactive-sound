@@ -3,7 +3,7 @@
 
 havin fun with max 🤠
 
-### what i have learned:
+### stuff we have learned:
 | date | assignment | 
 |---|---|
-| 9/9/2024 | [20 Objects](./20objects/) |
+| 9/9/2024 | [20 objects](./20objects/) |
